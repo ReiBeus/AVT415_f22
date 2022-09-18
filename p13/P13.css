@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*@font-face {
+    font-family: 'aclonica-regular-demo';
+    src: url('aclonica-regular-webfont.woff2') format('woff2'),
+         url('aclonica-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;*/
+@font-face{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+div1{
+	background-color: #0a304d;
+}
+body {
+    background-color: #0a304d;
+    color:  #c94818;
+    margin: 0;
+    padding-left: 50px;
+}
+h1 {
+    color:#ffc110;
+    font-size: 5em;
+}
+h2 {
+    color:#ffc110;
+    padding-left: 50px;
+    display: block;
+    font-size: 150%;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight:bold;
+	font-style: italic;
+}
+h3 {
+    color:#ffc110;
+    padding-left: 50px;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight:bold;
+	font-style: italic;
+}
+h4{
+	color: #0a304d;
+	font-size: 150%;
+}
+div2{
+	display: block;
+	margin: 50px;
+	border: 5px solid;
+	background-color: #84a39e;
+	text-align: center;
+}
+p{
+	padding-left: 50px;
+	font-size: 150%;
+}
