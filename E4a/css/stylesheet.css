@@ -1,0 +1,70 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.8em;
+  color: #0B0027;
+  background-color: #384A3E;
+  text-align: center;
+}
+
+
+.div1 {
+  width: 500px;
+  height: 100px;
+  border: 5px solid blue;
+  background-color: white;
+  margin: 100px;
+}
+
+.div2 {
+  width: 300px;
+  height: 100px;  
+  padding: 1px;
+  border: 5px solid red;
+  background-color: white;
+  margin: 100px;
+}
+
+.div3 { 
+  padding: 50px;
+  border: 1px solid red;
+  background-color: white;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  text-indent: 50px;
+  width: 80em;
+  
+}
+
+.div4 { /*design the style*/
+	padding-bottom: 30px;
+	box-sizing: border-box;
+}
+
+h1{
+	padding-bottom: 30px;
+	font-weight: bolder;
+}
+h2 {	
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: bold;
+	font-style: italic;
+}
+
+h3 {	
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight:bold;
+	font-style: italic;
+}
+h4 {	
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight:bold;
+	font-style: italic;
+}
