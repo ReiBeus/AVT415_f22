@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+html{background-color:#A0BB9E;
+	
+	
+}
+h1{font-family: 'Keania One', cursive;
+	color:darkred;
+	margin-left: 50px
+	
+}
+h2{font-family: 'Orbitron', sans-serif;
+	font-weight: bold;
+	color: darkred;
+	
+}
+.div1{font-family: 'Orbitron', sans-serif;
+	border: #000000 solid;
+	background-color:black;
+	color: white;
+	padding: 20px;
+	border-radius: 50px / 15px;
+  	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px
+	
+	
+	
+}
+.div2{font-family: 'Orbitron', sans-serif;
+	border: #96080A solid;
+	background-color: aliceblue;
+	text-align: center;
+	border-radius: 15px / 50px;
+	border-radius: 50px / 15px;
+  	margin-left: 500px;
+	margin-right: 50px;
+	margin-bottom: 50px
+}
+p{font-family: 'Orbitron', sans-serif;
+	font-weight: bold;
+	margin: 50px;
+	
+}
+h3{font-family: 'Orbitron', sans-serif;
+	font-weight: bold;
+	color: darkred;
+	font-size: 25px;
+	text-align: center;
+}
+h4{font-family: 'Orbitron', sans-serif;
+	font-weight: lighter;
+	font-size: 14px;
+	font-style: italic;
+	
+}
+h5{
+	font-family: 'Orbitron', sans-serif;
+	font-weight: lighter;
+	font-size: 20px;
+	margin-left: 50px;
+}
