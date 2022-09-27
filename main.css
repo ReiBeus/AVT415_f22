@@ -1,32 +1,53 @@
 @charset "UTF-8";
 
-html {font-size: 100%;} /*16px*/
+
+html {
+  font-size: 100%;
+ 
+}
+
 
 body {
-  background-color: #0d0c0e;
+  background-color:#723C89;
   color: #64c069;
   margin: 0;
-  padding: 50px;
+  padding: 100px ;
   line-height: 1.75;
+  font-family: 'Philosopher', sans-serif;
 }
 h1 {
 
   font-size: 5em;
+  font-family: 'Henny Penny', cursive;
+  font-weight: bold;
 }
 
-h2 {font-size: 3em;
-
+h2 {
+  font-size: 3em;
+  font-style: italic;
+  font-family: 'Philosopher', sans-serif;
+  border: 5px, solid; 
+  border-color: #64c069;
 }
 
-h4 {font-size: 1.5em;
+h4 {
+font-size: 1.5em;
 margin-top: 0;
+font-weight: bold;
+font-family: 'Philosopher', sans-serif;
 
 }
 
 dt {
 	font-size: 2em;
 	font-weight: bold;
+    font-family: 'Philosopher', sans-serif;
 }
 a:hover {
-  background-color: yellow;
+  background-color: black;
+  color:white;
+  font-family: 'Philosopher', sans-serif;
+}
+li{
+	
 }
