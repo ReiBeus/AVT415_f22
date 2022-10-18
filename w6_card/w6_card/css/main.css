@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
   body {
-    background-color: #EBBA38;
-	font-family: 'Caveat', cursive;
+    background-color: #FF9300;
+	font-family: 'Cinzel Decorative', cursive;
     margin: 0;
     font-size: 10px;
 	/*font-family: 'Caveat', cursive;*/
@@ -39,6 +39,7 @@
 /* tell browser don't display it when screen is wider than 768px */
   .mobile-only {
     display:block;
+	font-family: 'Cinzel Decorative', cursive;
 	
   }
 
@@ -46,8 +47,8 @@
   @media only screen and (max-width: 768px) {
 	  
     body {
-      background-color: #EBBA38;
-	  font-family: 'Caveat', cursive;
+      background: #3C0762;
+	  font-family: 'Creepster', cursive;
     }
 	  
 	#container {
@@ -61,21 +62,23 @@
 	text-transform: uppercase;
 	font-size: 1.8em;
 	margin-left: -6.5em;
-	font-family: 'Caveat', cursive;
-	font-family: 'Pinyon Script', cursive;
+	font-family: 'Cinzel Decorative', cursive;
     }
 	  
-	#cursive {font-family: 'Pinyon Script', cursive;
+	#cursive {font-family: 'Creepster', cursive;
 		
   	}
 	  
     .mobile-only {
       display: block;
+      background: #3C0762;
+	  font-family: 'Creepster', cursive;
     }
 	  /* Now the style and content for desktop will not be displied */
     .desktop-only {
 	  font-family: 'Pinyon Script', cursive;
       display: none;
+	  background: #FF9300;
     }
 
 } /* don't forget to close the styles for mobile/
